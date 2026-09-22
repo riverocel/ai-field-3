@@ -1,0 +1,1 @@
+I chose epsilon-greedy because the observed rewards are continuous rather than binary 
