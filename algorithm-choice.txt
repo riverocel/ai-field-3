@@ -1,1 +1,1 @@
-I chose epsilon-greedy because the observed rewards are continuous rather than binary 
+I chose UCB because the observed rewards are numerical rather than binary, making Beta/Bernoulli-based Bayesian and Thompson Sampling methods inappropriate.
